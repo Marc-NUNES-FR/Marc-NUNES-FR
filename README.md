@@ -1,25 +1,35 @@
 # 👋 Bienvenue sur mon profil GitHub
 
-<div align="center">
-  <style>
-    @keyframes slideIn {
-      from { transform: translateX(-100%); }
-      to { transform: translateX(0); }
-    }
-    .slide-in {
-      font-size: 24px;
-      transform: translateX(-100%);
-      animation: slideIn 2s ease-out forwards;
-    }
-  </style>
-  <h1 class="slide-in">Marc Nunes</h1>
-  <p>Développeur Kotlin | Passionné par la souveraineté numérique</p>
-</div>
+---
+
+## 📌 À propos de moi
+**Développeur en apprentissage** avec une passion pour la **souveraineté numérique** et les **technologies open-source**.
+
+J'utilise principalement :
+- **Android Studio** (pour le développement Kotlin/Java).
+- **PyCharm** (pour Python).
+- **VS Codium** (alternative open-source à VS Code).
 
 ---
-## 🛠️ Mes compétences
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-</div>
+
+## 🌍 Mes compétences et apprentissages
+- **Python** 🟡 : Niveau moyen
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" />
+
+- **HTML** 🟡 : Niveau moyen
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML" />
+
+- **Kotlin** 📚📖 : Début (objectif : contribuer à l'open-source sur Codeberg ou GitHub)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20" height="20" alt="Kotlin" />
+
+- **C#** 📚📖 : Début (en apprentissage)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" alt="C#" />
+
+- **Assembleur** 📚📖 : Début (en apprentissage)
+
+- **Linux** 🟡 : Niveau moyen
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="Linux" />
+
+---
+## 🔗 Mon profil Codeberg
+[Mon profil Codeberg](https://codeberg.org/Marc_Nunes)
