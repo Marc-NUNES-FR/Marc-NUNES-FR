@@ -1,8 +1,11 @@
 # 👋 Bienvenue sur mon profil GitHub
 
+> 🇫🇷 | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | [🇨🇳](README.zh.md) | [🇸🇪](README.sv.md) | [🇰🇷](README.ko.md) | [🇺🇦](README.uk.md)
+
 ---
 
 ## 📌 À propos de moi
+
 **Développeur en apprentissage** avec une passion pour la **souveraineté numérique** et les **technologies open-source**.
 
 J'utilise principalement :
@@ -13,23 +16,24 @@ J'utilise principalement :
 ---
 
 ## 🌍 Mes compétences et apprentissages
-- **Python** 🟡 : Niveau moyen
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" />
 
-- **HTML** 🟡 : Niveau moyen
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML" />
-
-- **Kotlin** 📚📖 : Début (objectif : contribuer à l'open-source sur Codeberg ou GitHub)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20" height="20" alt="Kotlin" />
-
-- **C#** 📚📖 : Début (en apprentissage)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" alt="C#" />
-
-- **Assembleur** 📚📖 : Début (en apprentissage)
-
-- **Linux** 🟡 : Niveau moyen
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="Linux" />
+![Python](https://img.shields.io/badge/Python-intermédiaire-yellow?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-intermédiaire-orange?logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-intermédiaire-informational?logo=linux&logoColor=white)
 
 ---
-## 🔗 Mon profil Codeberg
-[Mon profil Codeberg](https://codeberg.org/Marc_Nunes)
+
+## 📚 En cours d'apprentissage
+
+![Kotlin](https://img.shields.io/badge/Kotlin-débutant-purple?logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-débutant-green?logo=csharp&logoColor=white)
+![Assembleur](https://img.shields.io/badge/Assembleur-débutant-red?logo=datacamp&logoColor=white)
+
+_Objectif : contribuer à l'open-source sur Codeberg ou GitHub._
+
+---
+
+## 🔗 Me retrouver
+
+[![Email](https://img.shields.io/badge/Email-pensylvanie01%40proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:pensylvanie01@proton.me)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Marc__Nunes-blue?logo=codeberg&logoColor=white)](https://codeberg.org/Marc_Nunes)
