@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile
 
-> 🇫🇷 [Français](README.md) | 🇬🇧 **English** | 🇪🇸 [Español](README.es.md) | 🇧🇷 [Português](README.pt.md) | 🇩🇪 [Deutsch](README.de.md)
+> [🇫🇷](README.md) | **🇬🇧** | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | [🇨🇳](README.zh.md) | [🇸🇪](README.sv.md) | [🇰🇷](README.ko.md) | [🇺🇦](README.uk.md)
 
 ---
 
