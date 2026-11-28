@@ -29,6 +29,7 @@ _Objectif : contribuer à l'open-source sur Codeberg ou GitHub._
 
 ### 🔗 Me retrouver
 
+[![Email](https://img.shields.io/badge/Email-pensylvanie01%40proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:pensylvanie01@proton.me)
 [![Codeberg](https://img.shields.io/badge/Codeberg-Marc__Nunes-blue?logo=codeberg&logoColor=white)](https://codeberg.org/Marc_Nunes)
 
 ---
@@ -58,4 +59,5 @@ _Goal: contribute to open-source on Codeberg or GitHub._
 
 ### 🔗 Find me
 
+[![Email](https://img.shields.io/badge/Email-pensylvanie01%40proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:pensylvanie01@proton.me)
 [![Codeberg](https://img.shields.io/badge/Codeberg-Marc__Nunes-blue?logo=codeberg&logoColor=white)](https://codeberg.org/Marc_Nunes)
