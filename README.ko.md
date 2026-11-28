@@ -1,6 +1,6 @@
 # 👋 내 GitHub 프로필에 오신 것을 환영합니다
 
-> [🇫🇷](README.md) | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | [🇨🇳](README.zh.md) | [🇸🇪](README.sv.md) | **🇰🇷** | [🇺🇦](README.uk.md)
+> [🇫🇷](README.md) | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | [🇨🇳](README.zh.md) | [🇸🇪](README.sv.md) | 🇰🇷 | [🇺🇦](README.uk.md)
 
 ---
 

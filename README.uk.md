@@ -1,6 +1,6 @@
 # 👋 Ласкаво просимо до мого профілю GitHub
 
-> [🇫🇷](README.md) | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | [🇨🇳](README.zh.md) | [🇸🇪](README.sv.md) | [🇰🇷](README.ko.md) | **🇺🇦**
+> [🇫🇷](README.md) | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | [🇨🇳](README.zh.md) | [🇸🇪](README.sv.md) | [🇰🇷](README.ko.md) | 🇺🇦
 
 ---
 

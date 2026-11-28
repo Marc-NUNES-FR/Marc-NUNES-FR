@@ -1,6 +1,6 @@
 # 👋 欢迎来到我的 GitHub 主页
 
-> [🇫🇷](README.md) | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | **🇨🇳** | [🇸🇪](README.sv.md) | [🇰🇷](README.ko.md) | [🇺🇦](README.uk.md)
+> [🇫🇷](README.md) | [🇬🇧](README.en.md) | [🇪🇸](README.es.md) | [🇧🇷](README.pt.md) | [🇩🇪](README.de.md) | 🇨🇳 | [🇸🇪](README.sv.md) | [🇰🇷](README.ko.md) | [🇺🇦](README.uk.md)
 
 ---
 
