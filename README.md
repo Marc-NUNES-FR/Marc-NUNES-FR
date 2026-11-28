@@ -1,8 +1,11 @@
 # 👋 Bienvenue sur mon profil GitHub
 
+> 🇫🇷 [Français](#-à-propos-de-moi) | 🇬🇧 [English](#-about-me)
+
 ---
 
-## 📌 À propos de moi
+## 🇫🇷 À propos de moi
+
 **Développeur en apprentissage** avec une passion pour la **souveraineté numérique** et les **technologies open-source**.
 
 J'utilise principalement :
@@ -10,26 +13,49 @@ J'utilise principalement :
 - **PyCharm** (pour Python).
 - **VS Codium** (alternative open-source à VS Code).
 
----
+### 🌍 Mes compétences et apprentissages
 
-## 🌍 Mes compétences et apprentissages
-- **Python** 🟡 : Niveau moyen
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" />
+![Python](https://img.shields.io/badge/Python-intermédiaire-yellow?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-intermédiaire-orange?logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-intermédiaire-informational?logo=linux&logoColor=white)
 
-- **HTML** 🟡 : Niveau moyen
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML" />
+### 📚 En cours d'apprentissage
 
-- **Kotlin** 📚📖 : Début (objectif : contribuer à l'open-source sur Codeberg ou GitHub)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20" height="20" alt="Kotlin" />
+![Kotlin](https://img.shields.io/badge/Kotlin-débutant-purple?logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-débutant-green?logo=csharp&logoColor=white)
+![Assembleur](https://img.shields.io/badge/Assembleur-débutant-red?logo=datacamp&logoColor=white)
 
-- **C#** 📚📖 : Début (en apprentissage)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" alt="C#" />
+_Objectif : contribuer à l'open-source sur Codeberg ou GitHub._
 
-- **Assembleur** 📚📖 : Début (en apprentissage)
+### 🔗 Me retrouver
 
-- **Linux** 🟡 : Niveau moyen
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="Linux" />
+[![Codeberg](https://img.shields.io/badge/Codeberg-Marc__Nunes-blue?logo=codeberg&logoColor=white)](https://codeberg.org/Marc_Nunes)
 
 ---
-## 🔗 Mon profil Codeberg
-[Mon profil Codeberg](https://codeberg.org/Marc_Nunes)
+
+## 🇬🇧 About me
+
+**Apprentice developer** with a passion for **digital sovereignty** and **open-source technologies**.
+
+My main tools:
+- **Android Studio** (for Kotlin/Java development).
+- **PyCharm** (for Python).
+- **VS Codium** (open-source alternative to VS Code).
+
+### 🌍 My skills
+
+![Python](https://img.shields.io/badge/Python-intermediate-yellow?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-intermediate-orange?logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-intermediate-informational?logo=linux&logoColor=white)
+
+### 📚 Currently learning
+
+![Kotlin](https://img.shields.io/badge/Kotlin-beginner-purple?logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-beginner-green?logo=csharp&logoColor=white)
+![Assembleur](https://img.shields.io/badge/Assembly-beginner-red?logo=datacamp&logoColor=white)
+
+_Goal: contribute to open-source on Codeberg or GitHub._
+
+### 🔗 Find me
+
+[![Codeberg](https://img.shields.io/badge/Codeberg-Marc__Nunes-blue?logo=codeberg&logoColor=white)](https://codeberg.org/Marc_Nunes)
